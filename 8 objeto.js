@@ -6,3 +6,6 @@ let usuario = {
 }
 
 console.log(usuario.nombre);
+console.log(usuario.apellido);
+console.log(usuario.edad);
+console.log(usuario.mail);
