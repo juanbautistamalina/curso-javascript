@@ -1,0 +1,12 @@
+{
+  "name": "3.-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "43. Exportar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Bautista Malina",
+  "license": "ISC",
+  "type": "module"
+}
