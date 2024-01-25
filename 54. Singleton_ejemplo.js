@@ -4,7 +4,7 @@ let instancia;
 // Forma 1
 class Contador{
     constructor(){
-        if(instancia == true){
+        if(instancia){
             throw new Error("ERROR. Solo puedes tener una instancia");
         }
         instancia = this
